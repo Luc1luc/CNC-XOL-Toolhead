@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# CNC-XOL-Toolhead
+# CNC-XOL-Toolhead [absolutely BETA for now]
 This CNC Version is made to be completely interchangeable with standard XOL Toolhead
 
 CNC Coversion of DwTaz beautiful Project:
