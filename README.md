@@ -10,7 +10,7 @@ Project lead: https://github.com/Luc1luc
 
 https://discord.com/invite/armchairengineeringsux
 
-![https://github.com/Luc1luc/CNC-XOL-Toolhead/blob/main/Pictures/CNC_XOL_Carriage.png]
+![](https://github.com/Luc1luc/CNC-XOL-Toolhead/blob/main/Pictures/CNC_XOL_Carriage.png)
 
 <br/><br/><br/><br/>
 
