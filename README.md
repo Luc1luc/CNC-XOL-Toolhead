@@ -6,11 +6,11 @@ This CNC Version is made to be completely interchangeable with standard XOL Tool
 CNC Coversion of DwTaz beautiful Project:
 https://github.com/Armchair-Engineering/Xol-Toolhead
 
-Project lead: https://github.com/Luc1luc
+Project lead: [Luc1luc](https://github.com/Luc1luc)
 
 https://discord.com/invite/armchairengineeringsux
 
-![](https://github.com/Luc1luc/CNC-XOL-Toolhead/blob/main/Pictures/CNC_XOL_Carriage.png)
+!(https://github.com/Luc1luc/CNC-XOL-Toolhead/blob/main/Pictures/CNC_XOL_Carriage.png)
 
 <br/><br/><br/><br/>
 
