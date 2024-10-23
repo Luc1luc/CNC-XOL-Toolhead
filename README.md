@@ -8,10 +8,6 @@ https://github.com/Armchair-Engineering/Xol-Toolhead
 
 Project lead: [Luc1luc](https://github.com/Luc1luc)
 
-https://discord.com/invite/armchairengineeringsux
-
-Project Channel https://discord.com/channels/1029426383614648421/1166834119091687434
-
 ![](https://github.com/Luc1luc/CNC-XOL-Toolhead/blob/main/Pictures/CNC_XOL_Carriage.png)
 
 <br/><br/><br/><br/>
